@@ -7,7 +7,7 @@ class About extends Component {
   render() {
     return (
       <div>
-        <h1 className={styles.title}>About page</h1>
+        <h1 className={styles.title}>About page TESTING</h1>
         <img className={styles.reactLogo} src={imagePath('react.svg')} alt="" />
       </div>
     );
